@@ -59,7 +59,7 @@ archive:
     freebsd: FreeBSD
 release:
   github:
-    owner: ochinchina
+    owner: lovesky
     name: supervisord
   draft: true
   prerelease: true
